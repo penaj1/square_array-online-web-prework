@@ -1,4 +1,5 @@
-def square_array
+def square_array(numbers)
   numbers = [1,2,3]
-  square_array.each do |numbers|
+  ary.each do |i|
+  puts i
 end
